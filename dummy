@@ -3,9 +3,9 @@
 [here](https://github.com/Asteroidd21/gacorprjkt-clang/releases/latest)
 
 ```
-  ==> gacorprjkt clang LLVM_VERSION
+  ==> Clang LLVM_VERSION
+  ==> Binutils BINUTILS_VERSION
   ==> Archive size SIZE_MB
   ==> Compressed tar archive with zstd ZSTD_VERSION
-  ==> Included LLVM, Polly, and LLD
   ==> Optimized with Thin LTO, PGO, and -O3
 ```
