@@ -7,5 +7,5 @@
   ==> Binutils BINUTILS_VERSION
   ==> Archive size SIZE_MB
   ==> Compressed tar archive with zstd ZSTD_VERSION
-  ==> Optimized with Thin LTO, PGO, and -O3
+  ==> Optimized with ThinLTO, PGO, BOLT, and -O3
 ```
