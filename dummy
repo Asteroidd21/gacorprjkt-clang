@@ -4,8 +4,8 @@
 
 ```
   ==> Clang LLVM_VERSION
-  ==> Binutils BINUTILS_VERSION
-  ==> Archive size SIZE_MB
+  ==> Binutils vBINUTILS_VERSION
+  ==> Archive size ARCHIVE_SIZEMB
   ==> Compressed tar archive with zstd ZSTD_VERSION
   ==> Optimized with ThinLTO, PGO, and -O3
 ```
