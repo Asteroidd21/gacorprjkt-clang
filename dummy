@@ -3,7 +3,7 @@
   ==> Binutils BINUTILS_VERSION
   ==> Archive size ARCHIVE_SIZE
   ==> Compressed tar archive with zstd ZSTD_VERSION
-  ==> Optimized with ThinLTO, PGO, and -O3
+  ==> Host GLIBC GLIBC_VERSION
 ```
 
 # Download
